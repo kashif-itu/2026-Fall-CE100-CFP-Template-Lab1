@@ -1,0 +1,114 @@
+
+{
+  "questions": [
+    {
+      "statement": "A teacher wants to store the marks of a student, such as 85. What type of data is the student's marks?",
+      "options": [
+        "Numeric",
+        "Text",
+        "Image",
+        "None of these"
+      ]
+    },
+    {
+      "statement": "A student enters his name, \"Ali\", into a program. What type of data is the student's name?",
+      "options": [
+        "Numeric",
+        "Text",
+        "Image",
+        "None of these"
+      ]
+    },
+    {
+      "statement": "A school stores the phone number of a student, such as 03001234567. What type of data is this?",
+      "options": [
+        "Numeric",
+        "Text",
+        "Image",
+        "None of these"
+      ]
+    },
+    {
+      "statement": "A student is asked to enter whether he is present or absent. What type of information is this?",
+      "options": [
+        "Yes/No type information",
+        "Text only",
+        "Numeric only",
+        "Image"
+      ]
+    },
+    {
+      "statement": "A program asks a student to enter his age. What is the program receiving from the student?",
+      "options": [
+        "Input",
+        "Output",
+        "Image",
+        "None of these"
+      ]
+    },
+    {
+      "statement": "A program displays the student's final marks on the screen. What is the program providing to the student?",
+      "options": [
+        "Input",
+        "Output",
+        "Storage",
+        "None of these"
+      ]
+    },
+    {
+      "statement": "A student's marks are 75, 80, and 85. Which type of data are these values?",
+      "options": [
+        "Numeric",
+        "Text",
+        "Image",
+        "None of these"
+      ]
+    },
+    {
+      "statement": "A university stores the department name as \"Electrical Engineering\". What type of data is the department name?",
+      "options": [
+        "Numeric",
+        "Text",
+        "Yes/No",
+        "None of these"
+      ]
+    },
+    {
+      "statement": "A program calculates the total marks by adding marks obtained in three subjects. Which type of operation is being performed?",
+      "options": [
+        "Arithmetic",
+        "Text",
+        "Input",
+        "None of these"
+      ]
+    },
+    {
+      "statement": "A program asks for a student's name and then displays the same name on the screen. What two basic concepts are involved?",
+      "options": [
+        "Input and Output",
+        "Only Input",
+        "Only Output",
+        "Neither Input nor Output"
+      ]
+    },
+    {
+    "statement": "A student ID is made using the student's name and a number, for example, the first part identifies the student and the second part identifies their registration number. What type of data does the ID contain?",
+  "options": [
+    "Text and Numeric",
+    "Numeric only",
+    "Text only",
+    "None of these"
+  ]
+},
+    {
+      "statement": "A program needs to store the color of a student's shirt, such as \"Blue\". What type of data is required?",
+      "options": [
+        "Numeric",
+        "Text",
+        "Yes/No",
+        "None of these"
+      ]
+    }
+  ]
+}
+```
